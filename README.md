@@ -11,3 +11,4 @@ Includes
 - RecursiveSelect, a very efficient recurse selector
 - StrictlyOfType which filters by exact type so boxed instances won't pass
 
+I use these so often that they warrant their own nuget.
