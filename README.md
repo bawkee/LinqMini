@@ -1,4 +1,4 @@
-# linqmini
+# LinqMini
 
 [![NuGet](https://img.shields.io/nuget/v/LinqMini.svg)](https://www.nuget.org/packages/LinqMini/)
 
